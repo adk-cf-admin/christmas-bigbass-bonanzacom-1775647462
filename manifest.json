@@ -1,0 +1,19 @@
+{
+  "name": "Christmas Big Bass Bonanza",
+  "short_name": "Christmas Big Bass Bonanza",
+  "theme_color": "",
+  "background_color": "#012349",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775646408-42057-0.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
